@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Pierri</h1>
 <h3 align="center">Aspiring backend developer, constantly learning and building.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
   <a href="mailto:seuemail@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
